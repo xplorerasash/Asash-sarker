@@ -13,3 +13,8 @@
 💻 Building Python and Flutter Applications
 
 🚀 Passionate about Open Source Development
+
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,docker,kubernetes,linux,flutter,django,mysql,git,github,vscode" />
+</p>
